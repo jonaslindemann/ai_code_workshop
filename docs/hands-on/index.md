@@ -7,12 +7,14 @@ icon: lucide/flask-conical
 All hands-on exercises use the example repository
 [**jonaslindemann/ai_coding_example**](https://github.com/jonaslindemann/ai_coding_example).
 The core exercises use the CALFEM for Python examples in
-[`python/calfem/`](https://github.com/jonaslindemann/ai_coding_example/tree/main/python/calfem).
+[`python/calfem/`](https://github.com/jonaslindemann/ai_coding_example/tree/main/python/calfem)
+and
+[`python/debugging/`](https://github.com/jonaslindemann/ai_coding_example/tree/main/python/debugging).
 
 | Time        | Exercise                                                                     | Material |
 | ----------- | ---------------------------------------------------------------------------- | -------- |
 | 09:30–10:05 | [1. Understanding & improving scientific code](01-understanding.md)          | [`ex1_original.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex1_original.py) |
-| 10:05–10:30 | [2. Debugging with AI](02-debugging.md)                                      | Broken scientific example |
+| 10:05–10:30 | [2. Debugging with AI](02-debugging.md)                                      | [`debug_temperature.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/debugging/debug_temperature.py) |
 | 10:45–11:20 | [3. Profiling & performance reasoning](03-profiling.md)                      | [`ex2_original.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex2_original.py) |
 | 11:20–11:45 | [4. Optimisation](04-optimisation.md)                                        | [`ex2_original.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex2_original.py) |
 | 11:45–11:55 | [Demo: from assistant to agent](demo-objsolver.md)                           | [`cpp/objsolver/`](https://github.com/jonaslindemann/ai_coding_example/tree/main/cpp/objsolver) |
@@ -51,6 +53,7 @@ Each example directory contains the prompts used when the material was
 developed:
 
 - [`python/calfem/prompts_doc_refactor.md`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/prompts_doc_refactor.md): understanding, documenting and refactoring
+- [`python/debugging/prompts.md`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/debugging/prompts.md): debugging a scientific program
 - [`python/calfem/prompt_ai_opt.md`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/prompt_ai_opt.md): performance and optimisation
 
 See [More examples](more-examples.md) for the other examples in the

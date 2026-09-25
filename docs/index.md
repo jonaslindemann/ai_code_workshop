@@ -4,28 +4,42 @@ icon: lucide/atom
 
 # AI-Assisted Large-Scale Scientific Software Development
 
-Welcome to the workshop! Over the course of this workshop we explore how
-AI coding assistants can be used to develop, refactor, test and maintain
-**large scientific codebases** — and where their limits are.
+![AI-assisted coding](images/ai_coding.png){ width="100%" }
 
-## What you will learn
+This workshop focuses on the practical use of AI-assisted
+methods in the development, optimisation, and maintenance of large-scale
+scientific software.
 
-- How modern AI coding assistants and agents work, and how to use them effectively
-- Strategies for navigating and changing large, long-lived scientific codebases
-- Using AI to write tests, verify numerical results and keep work reproducible
-- Applying AI assistance to performance work, parallelisation and HPC
-- Workflows, guardrails and good practices for teams and research groups
+As scientific codes grow in complexity and scale, AI-based
+tools—such as code assistants and autonomous agents—offer new opportunities to
+improve productivity, performance, and code quality. At the same time, their
+effective use in HPC and research environments requires careful consideration
+of correctness, reproducibility, and performance.
 
-## Who is this for?
+Rather than emphasising highly complex or fully autonomous problem-solving,
+the workshop focuses on lowering the barrier to entry and demonstrating how AI
+tools can already support everyday development tasks. The goal is to enable
+participants to get started quickly and to build confidence through hands-on
+experience.
 
-Researchers, research software engineers and PhD students who develop or
-maintain scientific software (e.g. in Python, C/C++ or Fortran) and want to
-make productive and responsible use of AI tools.
+The workshop emphasises practical, hands-on exploration of
+AI-assisted workflows in realistic scientific computing settings, including:
 
-!!! info "Before the workshop"
+* AI-assisted code development and refactoring
 
-    Please go through the [Setup](setup.md) instructions before the first
-    session so that we can get started right away.
+* Debugging and bug fixing based on
+  natural-language problem descriptions
+
+* Performance analysis and optimisation with AI
+  support
+
+* AI-assisted documentation and knowledge transfer
+
+* Simple agent-based workflows for iterative code
+  improvement
+
+The focus is on usability, practical impact, and performance
+awareness in HPC-oriented environments.
 
 ## Workshop at a glance
 
@@ -49,10 +63,16 @@ make productive and responsible use of AI tools.
 
     Instructions for the hands-on exercises.
 
--   :lucide-github: **[Example repository](https://github.com/jonaslindemann/ai_coding_example)**
+-   :fontawesome-brands-github: **[Example repository](https://github.com/jonaslindemann/ai_coding_example)**
 
     ---
 
     Code and prompts used in the exercises.
 
 </div>
+
+# Organising committee
+
+* Jonas Lindemann, LUNARC / NAISS
+* Valera Veryazov, Computational Chemistry and
+* Philipp Birken, Mathematical Sciences

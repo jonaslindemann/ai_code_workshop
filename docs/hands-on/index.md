@@ -36,8 +36,9 @@ cd ai_coding_example/python/calfem
 
     - **Any LLM works.** A browser chat where you paste code is enough. If you
       use an assistant in your editor or terminal, that is fine too.
-    - **Try it yourself first.** The repository contains example solutions
-      (`ex1_oop.py`, `ex2_opt1.py`, …). Look at them *after* you have made your
+    - **Try it yourself first.** Example solutions are in the `final/`
+      subdirectory (`final/ex1_oop.py`, `final/ex2_opt1.py`, …). Look at them
+      *after* you have made your
       own attempt. Your LLM will give different answers, and comparing them is
       part of the exercise.
     - **Verify everything.** Run the code after every change. Treat AI output

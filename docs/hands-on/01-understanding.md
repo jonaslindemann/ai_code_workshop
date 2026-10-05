@@ -16,8 +16,8 @@ Directory: [`python/calfem/`](https://github.com/jonaslindemann/ai_coding_exampl
 | ---- | ----------- |
 | [`ex1_original.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex1_original.py) | **Starting point:** a 2D finite element problem written as a flat script |
 | [`prompts_doc_refactor.md`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/prompts_doc_refactor.md) | All prompts for this exercise |
-| [`ex1_modified_func.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex1_modified_func.py) | Example solution: refactored into functions |
-| [`ex1_oop.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex1_oop.py) | Example solution: object-oriented version |
+| [`final/ex1_modified_func.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex1_modified_func.py) | Example solution: refactored into functions |
+| [`final/ex1_oop.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex1_oop.py) | Example solution: object-oriented version |
 
 ## Instructions
 
@@ -85,7 +85,7 @@ This is the most important step. Ask:
 - [ ] Did the LLM invent physics, units or assumptions that are not in the code?
 - [ ] Are there comments or docstrings that sound plausible but are wrong?
 - [ ] How would you write an automated test that shows the refactoring is correct?
-- [ ] Compare your result with [`ex1_modified_func.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex1_modified_func.py) and [`ex1_oop.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex1_oop.py).
+- [ ] Compare your result with [`final/ex1_modified_func.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex1_modified_func.py) and [`final/ex1_oop.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex1_oop.py).
 
 !!! question "Extra: thinking at scale"
 

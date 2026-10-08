@@ -16,7 +16,7 @@ Directory: [`python/calfem/`](https://github.com/jonaslindemann/ai_coding_exampl
 | ---- | ----------- |
 | [`ex2_original.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex2_original.py) | **Starting point** |
 | [`prompt_ai_opt.md`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/prompt_ai_opt.md) | Prompts for this exercise |
-| [`ex2_opt1.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex2_opt1.py) … [`ex2_opt4.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex2_opt4.py) | Example solutions: a sequence of optimisation steps (look at them afterwards) |
+| [`final/ex2_opt1.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex2_opt1.py) … [`final/ex2_opt4.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex2_opt4.py) | Example solutions: a sequence of optimisation steps (look at them afterwards) |
 
 ## Instructions
 
@@ -72,8 +72,8 @@ Run the original and optimised versions with the same `MESH_SIZES` and
 | postprocess |              |               |          |
 
 Then compare your approach with the example solutions
-[`ex2_opt1.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex2_opt1.py) →
-[`ex2_opt4.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/ex2_opt4.py).
+[`final/ex2_opt1.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex2_opt1.py) →
+[`final/ex2_opt4.py`](https://github.com/jonaslindemann/ai_coding_example/blob/main/python/calfem/final/ex2_opt4.py).
 
 ## Discussion
 

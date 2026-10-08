@@ -6,6 +6,11 @@ icon: lucide/atom
 
 ![AI-assisted coding](images/ai_coding.png){ width="100%" }
 
+!!! important "Venue"
+
+    Room 4003, Ångström
+
+
 This workshop focuses on the practical use of AI-assisted
 methods in the development, optimisation, and maintenance of large-scale
 scientific software.
